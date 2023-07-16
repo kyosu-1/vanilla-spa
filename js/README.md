@@ -17,7 +17,7 @@ const routes = {
     404: "/pages/404.html",
     "/": "/pages/index.html",
     "/about": "/pages/about.html",
-    "/lorem": "/pages/lorem.html",
+    "/newpage": "/pages/newpage.html",
 };
 ```
 これはオブジェクトリテラルで、SPAの各ルート（URLパス）とそれに対応するHTMLファイルのマッピングを表現しています。
